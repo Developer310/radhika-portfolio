@@ -4,7 +4,7 @@ html {
 
 body {
   margin: 0;
-  font-family: "Poppins", sans-ser
+  font-family: "Poppins", sans-ser;
   background-color: #1b3c53;
   color: white;
 }
@@ -43,7 +43,7 @@ nav .right ul li a:hover {
   padding: 80px 20px;
   max-width: 800px;
   margin: auto;
-  border-bottom: 1px solid #9c97f
+  border-bottom: 1px solid #9c97f;
 }
 
 .section h1 {
