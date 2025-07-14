@@ -1,0 +1,153 @@
+body{
+    background-color: #1B3C53;
+    color : white;
+    font-family: "Poppins", sans-serif;
+
+}
+*{
+    margin: auto;
+    padding: 0;
+}
+nav{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 80px;
+    background-color:#456882 ;
+}
+ nav ul{
+    display: flex;
+    justify-content: center;
+ }
+ nav ul li{
+    list-style: none;
+    margin:  0 23px;
+ }
+
+ nav ul li a{
+    text-decoration: none;
+    color: white;
+ }
+ nav ul li a:hover{
+    color: rgb(153, 153, 226);
+    font-size: 1.05rem;
+ }
+
+
+ .left{
+    font-size: 1.5rem;
+ }
+ .first{
+    display:flex ;
+    justify-content:space-around ;
+    align-items: center;
+    margin: 185px 0 ;
+ }
+  
+.first >div{
+   width: 30% ;
+
+}
+
+
+ .rightSection img{
+    width: 80%;
+
+ }
+ .leftSection{
+    font-size: 2rem ;
+   
+
+ }
+ .leftSection btn {
+   padding: 12px;
+   background-color: #1e2167;
+   color: white;
+   border: 2px solid white;
+   border-radius: 6px;
+   font-size: 20px;
+   cursor: pointer;
+ }
+ .purple{
+    color: rgb(96, 139, 158);
+ }
+ .secondSection{
+    max-width: 80vw;
+    margin: auto;
+ }
+ main hr{
+    border: 0;
+    background-color: #9c97f1;
+    height: 1.5px;
+    margin: 40px 84px;
+ }
+ .footer{
+   display: flex;
+   padding:23px 122px ;
+   justify-content: space-evenly;
+ }
+ footer{
+   background-color:#D2C1B6;
+
+   
+ }
+ .footer ul{
+    list-style: none;
+ }
+ .footer>div{
+   width: 223px; ;
+ }
+ footer .footer-rights{
+   text-align: center;
+   color: grey;
+  }
+ 
+ .secondSection{
+   
+   height: 250px;
+ }
+ .thirdsection{
+    max-width: 80vw;
+    margin: auto;
+    height: 350px;
+ }
+
+ 
+.pro-1 {
+    background: #456882;
+    padding: 1rem;
+    margin-bottom: 1rem;
+
+}
+.pro-2{
+   background: #456882;
+padding: 1rem;
+margin-bottom: 1rem;
+}
+.fourthsection{
+    max-width: 80vw;
+    margin: auto;
+    height: 350px;
+}
+.contect{
+    
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    unicode-bidi: isolate;
+}
+.content a:-webkit-any-link {
+    color: -webkit-link;
+    cursor: pointer;
+    text-decoration: underline;
+}
+.contect a {
+   color: rgb(98, 171, 195);
+}
+
+
+
+
+ 
