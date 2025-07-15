@@ -75,12 +75,23 @@ footer {
   text-align: center;
   padding: 1rem;
 }
+
 hr{
     border: 0;
     background-color: #9c97f1;
     height: 1.5px;
     margin: 40px 84px;
 }
+
+#projects li {
+    max-width: 80vw;
+    margin: auto;
+    height: 350px;
+    background: #456882;
+    padding: 1rem;
+    margin-bottom: 1rem;
+}
+
 
 
 
